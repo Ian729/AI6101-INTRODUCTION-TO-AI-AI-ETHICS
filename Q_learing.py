@@ -22,7 +22,7 @@ class QAgent(object):
     # implement your train/update function to update self.V or self.Q
     # you should pass arguments to the train function
     def train(self, state, action, next_state, reward):
-        pass
+        self.Q[state][action-1] = self.Q[state][action-1] + self.alpha * (reward + self.discount_factor * np.max(self.Q[next_state]) - self.Q[state][action-1])
 
 
 if __name__ == '__main__':
