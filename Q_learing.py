@@ -3,6 +3,8 @@ from collections import defaultdict
 import numpy as np
 import random
 
+import matplotlib.pyplot as plt
+
 class QAgent(object):
     def __init__(self):
         self.action_space = [1,2,3,4]
@@ -26,6 +28,7 @@ class QAgent(object):
 
 
 if __name__ == '__main__':
+    episode_rewards = []
     env = CliffBoxPushingBase()
     # you can implement other algorithms
     agent = QAgent()
@@ -46,6 +49,25 @@ if __name__ == '__main__':
             time_step += 1
             agent.train(state, action, next_state, reward)
         print(f'rewards: {sum(rewards)}')
-    #     print(f'print the historical actions: {env.episode_actions}')
+        episode_rewards.append(sum(rewards))
+        print(f'print the historical actions: {env.episode_actions}')
         teminated = False
         rewards = []
+    # f = open("Q_table.csv","w")
+    # for key in sorted(agent.Q.keys()):
+        # print(f"{key}:{agent.Q[key][0]:.2f};{agent.Q[key][1]:.2f};{agent.Q[key][2]:.2f};{agent.Q[key][3]:.2f}")
+        # f.write(f"{key}:{agent.Q[key][0]:.2f};{agent.Q[key][1]:.2f};{agent.Q[key][2]:.2f};{agent.Q[key][3]:.2f}\n")
+    # f.close()
+    times = np.array(list(range(num_iterations)))   
+    
+    m,b = np.polyfit(times,episode_rewards,1)
+    
+    plt.plot(times, episode_rewards, 'o')
+    plt.plot(times, m*times+b)
+
+    plt.title("Episode Rewards vs Episodes")
+    plt.xlabel("Episodes")
+    plt.ylabel("Episode Rewards")
+
+    plt.ylim(min(episode_rewards)-200, 0)
+    plt.show()
