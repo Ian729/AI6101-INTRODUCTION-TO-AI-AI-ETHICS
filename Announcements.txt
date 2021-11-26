@@ -1,0 +1,304 @@
+Free Federated Learning e-books
+Posted on: Thursday, November 18, 2021 9:59:40 AM SGT
+
+Dear all,
+
+The federated learning e-books are available from the NTU library as follows:
+
+1. Federated Learning - https://ntu-sp.primo.exlibrisgroup.com/permalink/65NTU_INST/12u36pr/alma991016484834705146
+
+2. Federated Learning: Privacy and Incentive - https://ntu-sp.primo.exlibrisgroup.com/permalink/65NTU_INST/iuhkic/cdi_askewsholts_vlebooks_9783030630768
+
+Please login with your NTU account credentials to download for free.
+
+Thank you
+
+Best regards
+
+Yu Han
+
+Posted by: SCSE Yu Han
+
+Posted to: 21S1-AI6101-INTRODUCTION TO AI & AI ETHICS
+
+Week 13 Lecture Video
+Posted on: Monday, November 8, 2021 9:29:53 PM SGT
+
+Dear all,
+
+Week 13 lecture recording is online under Lecture Videos.
+
+Due to network disruptions, today's lecture recording quality is not good. Therefore, I have uploaded the recording from the previous semester which is essentially the same.
+
+This concludes our course for this semester. All the best!
+
+Thank you
+
+Best regards
+
+Yu Han
+
+Posted by: SCSE Yu Han
+
+Posted to: 21S1-AI6101-INTRODUCTION TO AI & AI ETHICS
+
+Corrigendum + Reminder about AI6101 Essay Deadline
+Posted on: Monday, November 8, 2021 3:40:33 PM SGT
+
+Dear AI6101 students,
+
+I hope that this message finds you well.
+
+A couple of updates/reminders:
+1) Corrigendum:
+It has belatedly come to my attention that the subtotal for my AI6101 component should be 20% instead of 19%. Thank you Weixiang for the eagle-eyed spot! This entails that your Reading Tasks in Weeks 8 and 9 should each account for 2.5% rather than 2% of your overall AI6101 score. Here is the breakdown for my AI6101 component:
+
+Week 8 Reading Tasks	2%       2.5%
+Week 9 Reading Tasks	2%       2.5%
+Take-home Essay	15%
+SUBTOTAL	19%       20%
+
+My humblest apologies for any inconvenience inadvertently caused by this error in publishing the Reading Task scores (although the new breakdown of scores does make my task of computing your scores from each of the 5-question tasks relatively more straightforward);
+
+2) Reminder:
+This is a gentle reminder that your AI6101 take-home essay will be due by 11.59 pm on 14 Nov. Kindly ensure that you submit your output via Turnitin before then. This required output is an open-ended mini-essay (no more than 1,000 words). Your bibliography will not be included in the word count. For more detailed guidance on conducting research and crafting an essay, do take a look at my 12 Oct announcement on NTULearn, the 'Research Tips' and 'Essay Guidelines' section of the 'AI6101 Take-Home Essay Question' pdf, and the 'Essay Guidelines' section of my Lecture 2 slides.
+
+Last but not least and on a separate note, if you are curious about what might happen when ethical decision-making is outsourced to AI systems, then do take a look at this article: https://www.vice.com/en/article/v7dg8m/ethical-ai-trained-on-reddit-posts-said-genocide-is-okay-if-it-makes-people-happy?fbclid=IwAR0KqCU1W3MLj_kM8_eHW_KbsjGfCrBvjGoD0eE-l4KxGR_rIWmhR5ZMA_I
+
+Take care, do continue to stay safe, healthy, and well, best of luck for the remainder of the academic semester, and I look forward to receiving your AI6101 take-home essay submissions.
+
+With every good wish,
+Melvin
+Posted by: SoH Melvin Chen
+
+Posted to: 21S1-AI6101-INTRODUCTION TO AI & AI ETHICS
+
+Week 12 Lecture Video
+Posted on: Monday, November 1, 2021 9:15:05 PM SGT
+
+Dear all,
+
+Week 12 lecture recording is online under Lecture Videos.
+
+Thanks
+
+Best regards
+
+Yu Han
+
+Posted by: SCSE Yu Han
+
+Posted to: 21S1-AI6101-INTRODUCTION TO AI & AI ETHICS
+
+Week 11 Lecture Video
+Posted on: Tuesday, October 26, 2021 8:53:20 AM SGT
+
+
+Dear all,
+
+Week 11 lecture recording is online under Lecture Videos.
+
+I have also updated the Week 11b lecture notes to correct a typo.
+
+Thanks
+
+Best regards
+
+Yu Han
+
+Posted by: SCSE Yu Han
+
+Posted to: 21S1-AI6101-INTRODUCTION TO AI & AI ETHICS
+
+Week 10 Lecture Recording
+Posted on: Monday, October 18, 2021 9:51:04 PM SGT
+
+Dear all,
+
+Week 10 lecture recording is online under Lecture Videos.
+
+Thanks
+
+Best regards
+
+Yu Han
+
+Posted by: SCSE Yu Han
+
+Posted to: 21S1-AI6101-INTRODUCTION TO AI & AI ETHICS
+
+Updated Lecture Zoom Link for AI6101
+Posted on: Thursday, October 14, 2021 7:57:01 PM SGT
+
+Dear all,
+
+I will take over the AI6101 course from Week 10 onwards.
+
+We will use the following Zoom link to conduct the course:
+
+Join Zoom Meeting
+https://ntu-sg.zoom.us/j/95816886893
+
+Meeting ID: 958 1688 6893
+Passcode: 550907
+
+See you soon!
+
+Best regards
+
+Yu Han
+
+Posted by: SCSE Yu Han
+
+Posted to: 21S1-AI6101-INTRODUCTION TO AI & AI ETHICS
+
+AI6101 Lecture 2 (Week 9) Recordings + Take-home Essay
+Posted on: Tuesday, October 12, 2021 11:28:05 AM SGT
+
+Dear AI6101 students,
+
+Here are a few important updates:
+1) AI6101 Lecture 2 (Week 9) Recordings
+
+The audio and video recordings for Lecture 2 (Week 9) are now available:
+AI6101 Lecture 2 Zoom recording (Zoom Cloud): https://ntu-sg.zoom.us/rec/share/V95SXNrO1zKihi5pmriJuZRIwFtc8Eu5myiuDiD5Egj9_1dxjx2-4JVwcQe9RGkP.y6_POUe_PG8QJi-V
+Password: 8wGoe6P#
+
+AI6101 Lecture 2 Audio recording (Google Drive): https://drive.google.com/file/d/1d4WcmJaWfp9qgL2e-Y75iFp1h-kR1X3A/view?usp=sharing
+
+2) AI6101 Take-home Essay
+My colleagues Bo An and Yu Han have kindly confirmed with me that there will be no formal examination component for this course. I am therefore at liberty to release the details for the AI6101 take-home essay and will do so with immediate effect. 
+
+Here is the take-home essay question:
+Moral philosophy is traditionally subdivided into metaethics, normative theory and applied ethics. What are the possible ethical standards that we find described in normative theory and how might they provide guidance on the AI research front?
+
+Here are the take-home essay instructions:
+This is an open-ended mini-essay (no more than 1,000 words). Your bibliography will not be included in the word count. I am happy to accept any of the following referencing styles: APA, MLA, Chicago, and Harvard.
+
+The take-home essay should be submitted via the Turnitin portal on NTULearn by 11.59 pm on 14 Nov (Week 13). It will account for 15% of your overall AI6101 grade.
+
+Here are some research tips:
+a) Good databases that you may wish to explore for your research include (but are not limited to) the following:
+NTU OneSearch: https://ntu-sp.primo.exlibrisgroup.com/discovery/search?vid=65NTU_INST:65NTU_INST
+Google Scholar: https://scholar.google.com/
+PhilPapers: https://philpapers.org/
+
+b) Here is a useful resource on Boolean search and other database search tips, courtesy of MIT Libraries: https://libguides.mit.edu/c.php?g=175963p=1158594
+
+c) In addition, here is a useful resource on referencing styles and conventions, courtesy of Purdue OWL: https://owl.purdue.edu/owl/purdue_owl.html
+
+I have published a compilation (in pdf form) of the details about the essay question, instructions, research tips, and essay guidelines. This pdf may be accessed in the following manner on NTULearn:
+21S1-AI6101-INTRODUCTION TO AI & AI ETHICS > Course Documents > Lecture Notes > Weeks 8 & 9 – The Philosophical Foundations of AI Ethics > AI6101 Take-home Essay (Turnitin)
+
+The Turnitin portal for submission has also been activated. It may be accessed in the following manner on NTULearn:
+21S1-AI6101-INTRODUCTION TO AI & AI ETHICS > Assignments > Take-home Essay (15%; Turnitin)
+
+Last but not least, I have updated the AI6101 syllabus outline document w.r.t. the philosophical foundations of AI ethics to reflect the fact that the essay is a take-home essay rather than a final exam essay.
+
+Thank you for having been such wonderful and engaging students, take care, do continue to stay safe and well, all the best for the remainder of the AI6101 course and your MSAI programme, and I look forward to reading your final submissions for the AI6101 essay.
+
+With every good wish,
+Melvin
+
+Posted by: SoH Melvin Chen
+
+Posted to: 21S1-AI6101-INTRODUCTION TO AI & AI ETHICS
+
+AI6101 The Philosophical Foundations of AI Ethics - Week 9
+Posted on: Monday, October 11, 2021 2:26:19 PM SGT
+
+Dear AI6101 students,
+
+I hope that you have had a restful and rewarding weekend.
+
+Here is a set of updates and reminders:
+1) We will be holding our second seminar on the philosophical foundations of AI ethics on Zoom this evening. 
+
+Week 9 Zoom details:
+Link: https://ntu-sg.zoom.us/j/97931610683
+
+Date: 11 Oct
+Time: 6.30-9.30 pm (Singapore time)
+Meeting ID: 979 3161 0683
+Passcode: 377651
+
+2) The Week 9 Reading Tasks (2%) are now available on the NTULearn portal. This assignment has to be completed by 11.59 pm on 17 Oct (Sunday). Material from the Anscombe (1958) and Russell & Norvig (2010) readings will be covered in this assignment;
+
+3) On a separate note and in case you might be interested, I have developed a new web-based resource on the different approaches to AI research. There is a chatbot program with which you can have a conversation. I have modified and adapted its js code from George Dunlop’s code for ELIZA. Note that the original script for ELIZA was written by Joseph Weizenbaum. The chatbot is the second AI program being hosted on my personal website: there is also a chess-playing AI program that may be found in my web-based resource on game-playing AI.
+
+Take care, do continue to stay safe, healthy, and well, and see you on Zoom later this evening!
+
+With every good wish,
+Melvin
+
+ 
+
+Posted by: SoH Melvin Chen
+
+Posted to: 21S1-AI6101-INTRODUCTION TO AI & AI ETHICS
+
+AI6101 The Philosophical Foundations of AI Ethics - Weeks 8 & 9
+Posted on: Tuesday, September 28, 2021 10:32:42 AM SGT
+
+Dear AI6101 students,
+
+I hope that this message finds you safe and well.
+
+Allow me to introduce myself: I am Dr. Melvin Chen and I shall be guiding you through the philosophical foundations of AI ethics in Weeks 8 and 9. My research interests include (but are not limited to) the philosophy of AI, causal epistemology, medical AI, normative ethics, and metaethics. Here is my personal website and here is a web-based resource that I have developed on game-playing AI systems. The web-based resource on game-playing AI systems even allows you to play chess and tic-tac-toe!
+
+In addition, here are a few updates in advance of our fortnight-long foray into the philosophical foundations of AI ethics:
+(1) NTULearn resources:
+A number of course-relevant resources have been published on NTULearn. They may be accessed in the following manner:
+21S1-AI6101-INTRODUCTION TO AI & AI ETHICS > COURSE DOCUMENTS > LECTURE NOTES > Weeks 8 & 9 - The Philosophical Foundations of AI Ethics
+
+The AI6101 syllabus outline document, lectures, readings (required and supplementary), additional resources may be accessed therefrom. While a document containing COVID-19 regulations has also been included, it may be less relevant, given the latest slew of COVID-19 regulations (see also (2));
+
+(2) Online seminars + Zoom details:
+While the AI6101 seminars have hitherto been conducted in a hybrid mode at LT 7, I have been given to understand that a new recommendation has been made by the Associate Chair (Academic) of SCSE in favour of classes being moved online. The Multi-Ministry Taskforce in Singapore is currently trying to slow down community transmission of COVID-19 and minimize the strain on the healthcare capacity of Singapore. As I collaborate with medical professionals and clinicians in my medical AI research, I am acutely aware of the salience of the latter point. In line with the tightening safe management measures nationwide (27 Sep-24 Oct), NTU has adjusted its own safe management measures accordingly. You should have received a message from the NTU President's Office stating the aforementioned.
+
+I am not a fan of the online mode of instruction but have decided in favour of heeding the recommendation that has been made by the Associate Chair (Academic) of SCSE. The Associate Chair (Academic) of my home school (SoH) has made the same recommendation. In lieu of the hybrid mode of instruction, we shall instead meet online. I will make an announcement if anything changes. For the moment, here are the Zoom details for our seminars in Weeks 8 and 9:
+
+Week 8 Zoom details:
+Link: https://ntu-sg.zoom.us/j/95847511280
+
+Date: 4 Oct
+Time: 6.30-9.30 pm (Singapore time)
+Meeting ID: 958 4751 1280
+Passcode: 177591
+
+Week 9 Zoom details:
+Link: https://ntu-sg.zoom.us/j/97931610683
+
+Date: 11 Oct
+Time: 6.30-9.30 pm (Singapore time)
+Meeting ID: 979 3161 0683
+Passcode: 377651
+
+Take care, have a good Recess Week, and see you on Zoom on Oct 4!
+
+With every good wish,
+Melvin
+
+Posted by: SoH Melvin Chen
+
+Posted to: 21S1-AI6101-INTRODUCTION TO AI & AI ETHICS
+
+Welcome to AI6101 and hybrid model for the first half
+Posted on: Friday, August 13, 2021 8:44:03 PM SGT
+
+Dear all,
+
+We will have our first lecture at 6:30pm next Monday at LT7.  I received a few emails requesting for a hybrid model. Peherpas this is a better way to help more students. So on Mondays, you can choose to go to LT7 or join the online lectures from Zoom: 
+
+https://ntu-sg.zoom.us/j/9904268520?pwd=SXl2Skt0aU45aXhpT2cwdlUzQmptdz09
+Meeting ID: 990 426 8520
+Passcode: 6101
+
+You can find the slides for the first half on the NTULearn website.
+
+Please maintain safe distancing of at least 1 metre when you are seated if you choose to attend in-person lecture.
+
+See you next Monday.
+
+Bo
+
