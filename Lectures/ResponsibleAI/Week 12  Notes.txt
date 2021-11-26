@@ -1,0 +1,5 @@
+[Important Note]
+The demo video of this hands-on example can be found here:  https://www.youtube.com/watch?v=XKQi-CUqCsM
+Thank you!
+[Online Comic]
+Enjoy an online comic about Federated Learning brought to you by Google AI here:  https://federated.withgoogle.com/#learn
